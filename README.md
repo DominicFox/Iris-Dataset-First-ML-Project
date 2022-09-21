@@ -5,7 +5,7 @@ The post details everything I did and offers a conclusion discussing my thoughts
 
 
 The files:
-IrisDatasetVisualisation.py contains the code for viewing some information about the dataset
-IrisDatasetModelSelection.py contains the code we used to compare various machine learning models
-IrisDatasetModelTest.py contains the code for testing the model we picked on the validation set
+-IrisDatasetVisualisation.py contains the code for viewing some information about the dataset
+-IrisDatasetModelSelection.py contains the code we used to compare various machine learning models
+-IrisDatasetModelTest.py contains the code for testing the model we picked on the validation set
 
