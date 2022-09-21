@@ -1,6 +1,7 @@
 # Iris-Dataset-First-ML-Project
 
-This is the full code to go along with my blog post available at this link: 
+This is the full code to go along with my blog post available at this link: https://domjfox.com/the-iris-dataset-machine-learning-project/
+
 The post details everything I did and offers a conclusion discussing my thoughts on the project.
 
 
